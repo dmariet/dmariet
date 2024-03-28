@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web3 security
 - 🌱 I’m currently learning smart contracts and solidity
 - 💞️ I’m looking to collaborate on smart contract audits
-- 📫 How to reach me: darianmthom@gmail.com
+- 📫 How to reach me: metablockdq@proton.me
 - 😄 Pronouns: she | her
 - ⚡ Fun fact: I love to travel
 
