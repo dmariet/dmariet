@@ -6,8 +6,6 @@
 
 💞️ I’m looking to collaborate on smart contract audits and Web3 projects
 
-😄 Pronouns: she | her
-
 📫 metablockdq@proton.me
 
 [![Discord](https://img.shields.io/badge/Chat%20on%20Discord-0xgetschwifty%232378-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/0xgetschwifty)
