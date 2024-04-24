@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning smart contract auditing and Solidity
 
-💞️ I’m looking to collaborate on smart contract audits and Web3 projects
+💞️ Looking to collaborate on smart contract audits and Web3 projects? 
 
 📫 metablockdq@proton.me
 
